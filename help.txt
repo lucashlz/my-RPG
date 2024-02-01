@@ -1,0 +1,45 @@
+
+
+------------------------BAKO'S ADVENTURE------------------------
+
+USAGE
+    ./my_rpg [OPTIONS]
+
+OPTIONS
+    -h print usage.
+
+SETTINGS
+    SOUND (stop or play the sound/music in the game)
+
+INTERACTIONS WITH KEYS
+    "ESCAPE"    Exit game
+    "Z & UP"    moove player TOP
+    "Q & LEFT"  moove player LEFT
+    "S & DOWN"  moove player DOWN
+    "D & RIGHT" moove player RIGHT
+    "I"         open inventory
+
+------------------------WORLD-------------------------
+
+NPC
+    many npcs
+    You can speak with the differents npcs
+    some give you quest
+
+QUEST
+    The quest contains many step and many choices for the end
+
+FIGHT
+    A final fight at the end
+
+INVENTORY
+    all your items are stock to your inventory press "I" to see.
+
+ITEMS
+    You can have/find item on the map or from npcs
+    Weapon
+    collectibles for quest
+
+AMAZING WORLD
+    Explore and enjoy the world of akrapovich
+
